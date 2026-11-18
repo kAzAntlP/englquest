@@ -10,8 +10,11 @@ export default function Home() {
       </div>
 
       <div className="mt-30">
+
         <p className="text-center text-2xl">Почему EngIQuest</p>
+
         <div className="flex gap-6 justify-center">
+
           <div className="bg-[#E2E8EB]  h-[100px] w-[170px] rounded-xl p-2 mt-8 text-center">
             <div className="flex">
               <Image
@@ -27,6 +30,7 @@ export default function Home() {
                 <p className="opacity-50 text-2xs pt-3">Наш алгоритм повторений (Spaced Repetition) поможет не забывать выученное</p>
               </div>
           </div>
+
           <div className="bg-[#E2E8EB]  h-[100px] w-[170px] rounded-xl p-2 mt-8 text-center">
             <div className="flex">
               <Image
@@ -42,6 +46,7 @@ export default function Home() {
                 <p className="opacity-50 text-2xs pt-3">Каждое слово озвучено носителем языка британский или американский акцент</p>
               </div>
           </div>
+
           <div className="bg-[#E2E8EB]  h-[100px] w-[170px] rounded-xl p-2 mt-8 text-center">
             <div className="flex">
               <Image
@@ -63,6 +68,7 @@ export default function Home() {
       <div className="mt-30 mb-20">
         <p className="text-center">Уже несколько десятков тысяч пользователей получили результат!</p>
         <p className="text-center opacity-50 text-2xs">Мы ежедневно получаем десятки положительных отзывов и рады, что такое количество наших пользователей уже получили результат</p>
+
         <div className="flex gap-6 justify-center">
           <div className="h-[260px] w-[160px] bg-[#E2E8EB] p-2 rounded-xl mt-10">
             <div className="flex">
@@ -84,6 +90,7 @@ export default function Home() {
               </p>
             </div>
           </div>
+
           <div className="h-[260px] w-[160px] bg-[#E2E8EB] p-2 rounded-xl mt-10">
             <div className="flex">
               <div className="">
@@ -104,6 +111,7 @@ export default function Home() {
               </p>
             </div>
           </div>
+
           <div className="h-[260px] w-[160px] bg-[#E2E8EB] p-2 rounded-xl mt-10">
             <div className="flex">
               <div className="">
@@ -124,6 +132,7 @@ export default function Home() {
               </p>
             </div>
           </div>
+          
         </div>
       </div>
     </main>
