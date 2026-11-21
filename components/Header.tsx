@@ -9,6 +9,7 @@ export default function Header() {
                 <nav className="flex gap-4">
                     <Link className="font-fredoka hover:opacity-50 transition-opacity" href="/">Главная</Link>
                     <Link className="font-fredoka hover:opacity-50 transition-opacity" href="/practice">Практика</Link>
+                    <Link className="font-fredoka hover:opacity-50 transition-opacity" href="/cards">Карточки</Link>
                     <Link className="font-fredoka hover:opacity-50 transition-opacity" href="#">Словарь</Link>
                     <Link className="font-fredoka hover:opacity-50 transition-opacity" href="#">Настройки</Link>
                     <Link className="font-fredoka hover:opacity-50 transition-opacity" href="#">Профиль</Link>
